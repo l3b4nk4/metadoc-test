@@ -1,5 +1,5 @@
 {
-  "client_id": "https://raw.githubusercontent.com/l3b4nk4/metadoc-test/master/metadata.json",
+  "client_id": "https://cdn.jsdelivr.net/gh/l3b4nk4/metadoc-test@master/metadata.json",
   "client_name": "bugbounty-test",
   "redirect_uris": ["https://example.com/callback"],
   "grant_types": ["authorization_code","client_credentials","refresh_token"],
